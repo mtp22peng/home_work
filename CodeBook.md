@@ -25,17 +25,17 @@
 <br><br>
 #data files
 
-##1 tBodyAcc-mean()-X-subject.csv
-##2 tBodyAcc-mean()-Y-subject.csv
-##3 tBodyAcc-mean()-Z-subject.csv
-##4 tBodyAcc-std()-X-subject.csv
-##5 tBodyAcc-std()-Y-subject.csv
-##6 tBodyAcc-std()-Z-subject.csv
-##7 tBodyAcc-mean()-X-activity.csv
-##8 tBodyAcc-mean()-Y-activity.csv
-##9 tBodyAcc-mean()-Z-activity.csv
-##10 tBodyAcc-std()-X-activity.csv
-##11 tBodyAcc-std()-Y-activity.csv
-##12 tBodyAcc-std()-Z-activity.csv
+##1 tBodyAcc-mean()-X-subject.csv : average of variable 1 for each subject 
+##2 tBodyAcc-mean()-Y-subject.csv : average of variable 2 for each subject 
+##3 tBodyAcc-mean()-Z-subject.csv : average of variable 3 for each subject 
+##4 tBodyAcc-std()-X-subject.csv : average of variable 4 for each subject 
+##5 tBodyAcc-std()-Y-subject.csv : average of variable 5 for each subject 
+##6 tBodyAcc-std()-Z-subject.csv : average of variable 6 for each subject 
+##7 tBodyAcc-mean()-X-activity.csv : average of variable 1 for each activity 
+##8 tBodyAcc-mean()-Y-activity.csv : average of variable 2 for each activity
+##9 tBodyAcc-mean()-Z-activity.csv : average of variable 3 for each activity
+##10 tBodyAcc-std()-X-activity.csv : average of variable 4 for each activity
+##11 tBodyAcc-std()-Y-activity.csv : average of variable 5 for each activity
+##12 tBodyAcc-std()-Z-activity.csv : average of variable 6 for each activity
 
 
