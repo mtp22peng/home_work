@@ -7,9 +7,11 @@
 ##5 STANDING
 ##6 LAYING
 
+#
+
 #  activity
 ## 1 to 30
-
+#
 # variable
  
 ##1 tBodyAcc-mean()-X
