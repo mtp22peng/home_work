@@ -21,3 +21,21 @@
 ##4 tBodyAcc-std()-X
 ##5 tBodyAcc-std()-Y
 ##6 tBodyAcc-std()-Z
+
+<br><br>
+#data files
+
+##1 tBodyAcc-mean()-X-subject.csv
+##2 tBodyAcc-mean()-Y-subject.csv
+##3 tBodyAcc-mean()-Z-subject.csv
+##4 tBodyAcc-std()-X-subject.csv
+##5 tBodyAcc-std()-Y-subject.csv
+##6 tBodyAcc-std()-Z-subject.csv
+##7 tBodyAcc-mean()-X-activity.csv
+##8 tBodyAcc-mean()-Y-activity.csv
+##9 tBodyAcc-mean()-Z-activity.csv
+##10 tBodyAcc-std()-X-activity.csv
+##11 tBodyAcc-std()-Y-activity.csv
+##12 tBodyAcc-std()-Z-activity.csv
+
+
