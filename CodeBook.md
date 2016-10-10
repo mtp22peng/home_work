@@ -1,28 +1,18 @@
 
 #data files" out.txt
 
-## the table has 4 columns
-## first 2 columns contain "study" and "id". "study" shows whether the study is a subject or an activity, and "id" shows the subject number or activity label.
+## the table has 3 columns
+## first column contain "study id", which is a subject number or an activity label.
 ## last 2 columns contain "variable" and "value". "variable" shows its name, and "value" shows the average calculated. 
 
 <br><br>
-# study
-## subject
-## activity
-<br><br>
-# id
-##  activity id:
-
+# study id
 ##1 WALKING
 ##2 WALKING_UPSTAIRS
 ##3 WALKING_DOWNSTAIRS
 ##4 SITTING
 ##5 STANDING
 ##6 LAYING
-
-<br>
-
-##  subject id:
 ##1 subject 1
 ##2 subject 2
 ##3 subject 3
