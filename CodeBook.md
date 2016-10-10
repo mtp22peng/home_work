@@ -7,12 +7,6 @@
 
 <br><br>
 # study id
-##1 WALKING
-##2 WALKING_UPSTAIRS
-##3 WALKING_DOWNSTAIRS
-##4 SITTING
-##5 STANDING
-##6 LAYING
 ##1 subject 1
 ##2 subject 2
 ##3 subject 3
@@ -43,6 +37,12 @@
 ##28 subject 28
 ##29 subject 29
 ##30 subject 30
+##31 WALKING
+##32 WALKING_UPSTAIRS
+##33 WALKING_DOWNSTAIRS
+##34 SITTING
+##35 STANDING
+##36 LAYING
 
 <br><br>
 
