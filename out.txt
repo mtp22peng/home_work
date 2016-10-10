@@ -1,0 +1,433 @@
+"","study","id","variable","value"
+"1","subject","subject 1","tBodyAcc-mean()-X",0.263594619017241
+"2","subject","subject 10","tBodyAcc-mean()-X",0.276539698054422
+"3","subject","subject 11","tBodyAcc-mean()-X",0.276806257753165
+"4","subject","subject 12","tBodyAcc-mean()-X",0.2770194240625
+"5","subject","subject 13","tBodyAcc-mean()-X",0.276677213963415
+"6","subject","subject 14","tBodyAcc-mean()-X",0.269674978851852
+"7","subject","subject 15","tBodyAcc-mean()-X",0.277505892243902
+"8","subject","subject 16","tBodyAcc-mean()-X",0.27724234120765
+"9","subject","subject 17","tBodyAcc-mean()-X",0.275194017673913
+"10","subject","subject 18","tBodyAcc-mean()-X",0.275999144450549
+"11","subject","subject 19","tBodyAcc-mean()-X",0.27062338205
+"12","subject","subject 2","tBodyAcc-mean()-X",0.270898272245033
+"13","subject","subject 20","tBodyAcc-mean()-X",0.267213054581921
+"14","subject","subject 21","tBodyAcc-mean()-X",0.277343602779412
+"15","subject","subject 22","tBodyAcc-mean()-X",0.2726579538925
+"16","subject","subject 23","tBodyAcc-mean()-X",0.273705797793548
+"17","subject","subject 24","tBodyAcc-mean()-X",0.274871424710526
+"18","subject","subject 25","tBodyAcc-mean()-X",0.276464978530732
+"19","subject","subject 26","tBodyAcc-mean()-X",0.271460789091837
+"20","subject","subject 27","tBodyAcc-mean()-X",0.278028956170213
+"21","subject","subject 28","tBodyAcc-mean()-X",0.276425796753927
+"22","subject","subject 29","tBodyAcc-mean()-X",0.281307044924419
+"23","subject","subject 3","tBodyAcc-mean()-X",0.272741338082353
+"24","subject","subject 30","tBodyAcc-mean()-X",0.275184313115183
+"25","subject","subject 4","tBodyAcc-mean()-X",0.279197047025316
+"26","subject","subject 5","tBodyAcc-mean()-X",0.275632311033113
+"27","subject","subject 6","tBodyAcc-mean()-X",0.271136591478528
+"28","subject","subject 7","tBodyAcc-mean()-X",0.27294886324026
+"29","subject","subject 8","tBodyAcc-mean()-X",0.269208783578571
+"30","subject","subject 9","tBodyAcc-mean()-X",0.275342405743056
+"31","subject",NA,"tBodyAcc-mean()-X",0.271119301350415
+"32","subject",NA,"tBodyAcc-mean()-X",0.272774105080717
+"33","subject",NA,"tBodyAcc-mean()-X",0.278836386119874
+"34","subject",NA,"tBodyAcc-mean()-X",0.276474090819861
+"35","subject",NA,"tBodyAcc-mean()-X",0.285736883392297
+"36","subject",NA,"tBodyAcc-mean()-X",0.261922963645677
+"37","activity",NA,"tBodyAcc-mean()-X",0.263594619017241
+"38","activity",NA,"tBodyAcc-mean()-X",0.276539698054422
+"39","activity",NA,"tBodyAcc-mean()-X",0.276806257753165
+"40","activity",NA,"tBodyAcc-mean()-X",0.2770194240625
+"41","activity",NA,"tBodyAcc-mean()-X",0.276677213963415
+"42","activity",NA,"tBodyAcc-mean()-X",0.269674978851852
+"43","activity",NA,"tBodyAcc-mean()-X",0.277505892243902
+"44","activity",NA,"tBodyAcc-mean()-X",0.27724234120765
+"45","activity",NA,"tBodyAcc-mean()-X",0.275194017673913
+"46","activity",NA,"tBodyAcc-mean()-X",0.275999144450549
+"47","activity",NA,"tBodyAcc-mean()-X",0.27062338205
+"48","activity",NA,"tBodyAcc-mean()-X",0.270898272245033
+"49","activity",NA,"tBodyAcc-mean()-X",0.267213054581921
+"50","activity",NA,"tBodyAcc-mean()-X",0.277343602779412
+"51","activity",NA,"tBodyAcc-mean()-X",0.2726579538925
+"52","activity",NA,"tBodyAcc-mean()-X",0.273705797793548
+"53","activity",NA,"tBodyAcc-mean()-X",0.274871424710526
+"54","activity",NA,"tBodyAcc-mean()-X",0.276464978530732
+"55","activity",NA,"tBodyAcc-mean()-X",0.271460789091837
+"56","activity",NA,"tBodyAcc-mean()-X",0.278028956170213
+"57","activity",NA,"tBodyAcc-mean()-X",0.276425796753927
+"58","activity",NA,"tBodyAcc-mean()-X",0.281307044924419
+"59","activity",NA,"tBodyAcc-mean()-X",0.272741338082353
+"60","activity",NA,"tBodyAcc-mean()-X",0.275184313115183
+"61","activity",NA,"tBodyAcc-mean()-X",0.279197047025316
+"62","activity",NA,"tBodyAcc-mean()-X",0.275632311033113
+"63","activity",NA,"tBodyAcc-mean()-X",0.271136591478528
+"64","activity",NA,"tBodyAcc-mean()-X",0.27294886324026
+"65","activity",NA,"tBodyAcc-mean()-X",0.269208783578571
+"66","activity",NA,"tBodyAcc-mean()-X",0.275342405743056
+"67","activity","LAYING","tBodyAcc-mean()-X",0.271119301350415
+"68","activity","SITTING","tBodyAcc-mean()-X",0.272774105080717
+"69","activity","STANDING","tBodyAcc-mean()-X",0.278836386119874
+"70","activity","WALKING","tBodyAcc-mean()-X",0.276474090819861
+"71","activity","WALKING_DOWNSTAIRS","tBodyAcc-mean()-X",0.285736883392297
+"72","activity","WALKING_UPSTAIRS","tBodyAcc-mean()-X",0.261922963645677
+"73","subject","subject 1","tBodyAcc-mean()-Y",-0.0181902468034682
+"74","subject","subject 10","tBodyAcc-mean()-Y",-0.0174248311251701
+"75","subject","subject 11","tBodyAcc-mean()-Y",-0.0189938269594304
+"76","subject","subject 12","tBodyAcc-mean()-Y",-0.018944532187603
+"77","subject","subject 13","tBodyAcc-mean()-Y",-0.0194991494222086
+"78","subject","subject 14","tBodyAcc-mean()-Y",-0.0170655363601863
+"79","subject","subject 15","tBodyAcc-mean()-Y",-0.0171030768436585
+"80","subject","subject 16","tBodyAcc-mean()-Y",-0.0150631708131694
+"81","subject","subject 17","tBodyAcc-mean()-Y",-0.0182448541178261
+"82","subject","subject 18","tBodyAcc-mean()-Y",-0.0180215504944506
+"83","subject","subject 19","tBodyAcc-mean()-Y",-0.0170252316948389
+"84","subject","subject 2","tBodyAcc-mean()-Y",-0.019765251302649
+"85","subject","subject 20","tBodyAcc-mean()-Y",-0.0181469627423729
+"86","subject","subject 21","tBodyAcc-mean()-Y",-0.017303869894902
+"87","subject","subject 22","tBodyAcc-mean()-Y",-0.0150375897349255
+"88","subject","subject 23","tBodyAcc-mean()-Y",-0.0189747762547903
+"89","subject","subject 24","tBodyAcc-mean()-Y",-0.0179023704583665
+"90","subject","subject 25","tBodyAcc-mean()-Y",-0.0199530064681373
+"91","subject","subject 26","tBodyAcc-mean()-Y",-0.015661823330352
+"92","subject","subject 27","tBodyAcc-mean()-Y",-0.0162505857885638
+"93","subject","subject 28","tBodyAcc-mean()-Y",-0.0189122737055497
+"94","subject","subject 29","tBodyAcc-mean()-Y",-0.0184309587472093
+"95","subject","subject 3","tBodyAcc-mean()-Y",-0.0170219016807602
+"96","subject","subject 30","tBodyAcc-mean()-Y",-0.0167792248525
+"97","subject","subject 4","tBodyAcc-mean()-Y",-0.00910065746823899
+"98","subject","subject 5","tBodyAcc-mean()-Y",-0.0138273449531987
+"99","subject","subject 6","tBodyAcc-mean()-Y",-0.0173211848064198
+"100","subject","subject 7","tBodyAcc-mean()-Y",-0.0186750133479221
+"101","subject","subject 8","tBodyAcc-mean()-Y",-0.0153419366234043
+"102","subject","subject 9","tBodyAcc-mean()-Y",-0.0237644918223542
+"103","subject",NA,"tBodyAcc-mean()-Y",-0.0180098034159694
+"104","subject",NA,"tBodyAcc-mean()-Y",-0.012233531623435
+"105","subject",NA,"tBodyAcc-mean()-Y",-0.0155587764310031
+"106","subject",NA,"tBodyAcc-mean()-Y",-0.0177465685108949
+"107","subject",NA,"tBodyAcc-mean()-Y",-0.0164828563064347
+"108","subject",NA,"tBodyAcc-mean()-Y",-0.0257366299155787
+"109","activity",NA,"tBodyAcc-mean()-Y",-0.0181902468034682
+"110","activity",NA,"tBodyAcc-mean()-Y",-0.0174248311251701
+"111","activity",NA,"tBodyAcc-mean()-Y",-0.0189938269594304
+"112","activity",NA,"tBodyAcc-mean()-Y",-0.018944532187603
+"113","activity",NA,"tBodyAcc-mean()-Y",-0.0194991494222086
+"114","activity",NA,"tBodyAcc-mean()-Y",-0.0170655363601863
+"115","activity",NA,"tBodyAcc-mean()-Y",-0.0171030768436585
+"116","activity",NA,"tBodyAcc-mean()-Y",-0.0150631708131694
+"117","activity",NA,"tBodyAcc-mean()-Y",-0.0182448541178261
+"118","activity",NA,"tBodyAcc-mean()-Y",-0.0180215504944506
+"119","activity",NA,"tBodyAcc-mean()-Y",-0.0170252316948389
+"120","activity",NA,"tBodyAcc-mean()-Y",-0.019765251302649
+"121","activity",NA,"tBodyAcc-mean()-Y",-0.0181469627423729
+"122","activity",NA,"tBodyAcc-mean()-Y",-0.017303869894902
+"123","activity",NA,"tBodyAcc-mean()-Y",-0.0150375897349255
+"124","activity",NA,"tBodyAcc-mean()-Y",-0.0189747762547903
+"125","activity",NA,"tBodyAcc-mean()-Y",-0.0179023704583665
+"126","activity",NA,"tBodyAcc-mean()-Y",-0.0199530064681373
+"127","activity",NA,"tBodyAcc-mean()-Y",-0.015661823330352
+"128","activity",NA,"tBodyAcc-mean()-Y",-0.0162505857885638
+"129","activity",NA,"tBodyAcc-mean()-Y",-0.0189122737055497
+"130","activity",NA,"tBodyAcc-mean()-Y",-0.0184309587472093
+"131","activity",NA,"tBodyAcc-mean()-Y",-0.0170219016807602
+"132","activity",NA,"tBodyAcc-mean()-Y",-0.0167792248525
+"133","activity",NA,"tBodyAcc-mean()-Y",-0.00910065746823899
+"134","activity",NA,"tBodyAcc-mean()-Y",-0.0138273449531987
+"135","activity",NA,"tBodyAcc-mean()-Y",-0.0173211848064198
+"136","activity",NA,"tBodyAcc-mean()-Y",-0.0186750133479221
+"137","activity",NA,"tBodyAcc-mean()-Y",-0.0153419366234043
+"138","activity",NA,"tBodyAcc-mean()-Y",-0.0237644918223542
+"139","activity","LAYING","tBodyAcc-mean()-Y",-0.0180098034159694
+"140","activity","SITTING","tBodyAcc-mean()-Y",-0.012233531623435
+"141","activity","STANDING","tBodyAcc-mean()-Y",-0.0155587764310031
+"142","activity","WALKING","tBodyAcc-mean()-Y",-0.0177465685108949
+"143","activity","WALKING_DOWNSTAIRS","tBodyAcc-mean()-Y",-0.0164828563064347
+"144","activity","WALKING_UPSTAIRS","tBodyAcc-mean()-Y",-0.0257366299155787
+"145","subject","subject 1","tBodyAcc-mean()-Z",-0.106487431864943
+"146","subject","subject 10","tBodyAcc-mean()-Z",-0.113869377997279
+"147","subject","subject 11","tBodyAcc-mean()-Z",-0.10735430435443
+"148","subject","subject 12","tBodyAcc-mean()-Z",-0.10710899125625
+"149","subject","subject 13","tBodyAcc-mean()-Z",-0.111799719409146
+"150","subject","subject 14","tBodyAcc-mean()-Z",-0.101207160237037
+"151","subject","subject 15","tBodyAcc-mean()-Z",-0.111394509835366
+"152","subject","subject 16","tBodyAcc-mean()-Z",-0.107997710196721
+"153","subject","subject 17","tBodyAcc-mean()-Z",-0.108152349619946
+"154","subject","subject 18","tBodyAcc-mean()-Z",-0.107910266112088
+"155","subject","subject 19","tBodyAcc-mean()-Z",-0.1183992138
+"156","subject","subject 2","tBodyAcc-mean()-Z",-0.115995490966887
+"157","subject","subject 20","tBodyAcc-mean()-Z",-0.105984598219209
+"158","subject","subject 21","tBodyAcc-mean()-Z",-0.110297567656863
+"159","subject","subject 22","tBodyAcc-mean()-Z",-0.110048198829375
+"160","subject","subject 23","tBodyAcc-mean()-Z",-0.110229561040376
+"161","subject","subject 24","tBodyAcc-mean()-Z",-0.107765859489474
+"162","subject","subject 25","tBodyAcc-mean()-Z",-0.10946468037561
+"163","subject","subject 26","tBodyAcc-mean()-Z",-0.108147130087755
+"164","subject","subject 27","tBodyAcc-mean()-Z",-0.111512109638298
+"165","subject","subject 28","tBodyAcc-mean()-Z",-0.11010313327644
+"166","subject","subject 29","tBodyAcc-mean()-Z",-0.109132383469186
+"167","subject","subject 3","tBodyAcc-mean()-Z",-0.105920029706012
+"168","subject","subject 30","tBodyAcc-mean()-Z",-0.104558855931937
+"169","subject","subject 4","tBodyAcc-mean()-Z",-0.111584088772152
+"170","subject","subject 5","tBodyAcc-mean()-Z",-0.106988899046358
+"171","subject","subject 6","tBodyAcc-mean()-Z",-0.116500748907975
+"172","subject","subject 7","tBodyAcc-mean()-Z",-0.109989409887013
+"173","subject","subject 8","tBodyAcc-mean()-Z",-0.105519896622857
+"174","subject","subject 9","tBodyAcc-mean()-Z",-0.103190798166667
+"175","subject",NA,"tBodyAcc-mean()-Z",-0.107675432973133
+"176","subject",NA,"tBodyAcc-mean()-Z",-0.105364968729036
+"177","subject",NA,"tBodyAcc-mean()-Z",-0.106991329630286
+"178","subject",NA,"tBodyAcc-mean()-Z",-0.109101727486952
+"179","subject",NA,"tBodyAcc-mean()-Z",-0.106151798266619
+"180","subject",NA,"tBodyAcc-mean()-Z",-0.120825450155097
+"181","activity",NA,"tBodyAcc-mean()-Z",-0.106487431864943
+"182","activity",NA,"tBodyAcc-mean()-Z",-0.113869377997279
+"183","activity",NA,"tBodyAcc-mean()-Z",-0.10735430435443
+"184","activity",NA,"tBodyAcc-mean()-Z",-0.10710899125625
+"185","activity",NA,"tBodyAcc-mean()-Z",-0.111799719409146
+"186","activity",NA,"tBodyAcc-mean()-Z",-0.101207160237037
+"187","activity",NA,"tBodyAcc-mean()-Z",-0.111394509835366
+"188","activity",NA,"tBodyAcc-mean()-Z",-0.107997710196721
+"189","activity",NA,"tBodyAcc-mean()-Z",-0.108152349619946
+"190","activity",NA,"tBodyAcc-mean()-Z",-0.107910266112088
+"191","activity",NA,"tBodyAcc-mean()-Z",-0.1183992138
+"192","activity",NA,"tBodyAcc-mean()-Z",-0.115995490966887
+"193","activity",NA,"tBodyAcc-mean()-Z",-0.105984598219209
+"194","activity",NA,"tBodyAcc-mean()-Z",-0.110297567656863
+"195","activity",NA,"tBodyAcc-mean()-Z",-0.110048198829375
+"196","activity",NA,"tBodyAcc-mean()-Z",-0.110229561040376
+"197","activity",NA,"tBodyAcc-mean()-Z",-0.107765859489474
+"198","activity",NA,"tBodyAcc-mean()-Z",-0.10946468037561
+"199","activity",NA,"tBodyAcc-mean()-Z",-0.108147130087755
+"200","activity",NA,"tBodyAcc-mean()-Z",-0.111512109638298
+"201","activity",NA,"tBodyAcc-mean()-Z",-0.11010313327644
+"202","activity",NA,"tBodyAcc-mean()-Z",-0.109132383469186
+"203","activity",NA,"tBodyAcc-mean()-Z",-0.105920029706012
+"204","activity",NA,"tBodyAcc-mean()-Z",-0.104558855931937
+"205","activity",NA,"tBodyAcc-mean()-Z",-0.111584088772152
+"206","activity",NA,"tBodyAcc-mean()-Z",-0.106988899046358
+"207","activity",NA,"tBodyAcc-mean()-Z",-0.116500748907975
+"208","activity",NA,"tBodyAcc-mean()-Z",-0.109989409887013
+"209","activity",NA,"tBodyAcc-mean()-Z",-0.105519896622857
+"210","activity",NA,"tBodyAcc-mean()-Z",-0.103190798166667
+"211","activity","LAYING","tBodyAcc-mean()-Z",-0.107675432973133
+"212","activity","SITTING","tBodyAcc-mean()-Z",-0.105364968729036
+"213","activity","STANDING","tBodyAcc-mean()-Z",-0.106991329630286
+"214","activity","WALKING","tBodyAcc-mean()-Z",-0.109101727486952
+"215","activity","WALKING_DOWNSTAIRS","tBodyAcc-mean()-Z",-0.106151798266619
+"216","activity","WALKING_UPSTAIRS","tBodyAcc-mean()-Z",-0.120825450155097
+"217","subject","subject 1","tBodyAcc-std()-X",-0.547885746921555
+"218","subject","subject 10","tBodyAcc-std()-X",-0.535282991993197
+"219","subject","subject 11","tBodyAcc-std()-X",-0.586933614229747
+"220","subject","subject 12","tBodyAcc-std()-X",-0.581516969935625
+"221","subject","subject 13","tBodyAcc-std()-X",-0.624906791828834
+"222","subject","subject 14","tBodyAcc-std()-X",-0.611990543725466
+"223","subject","subject 15","tBodyAcc-std()-X",-0.555897911318902
+"224","subject","subject 16","tBodyAcc-std()-X",-0.668819182286339
+"225","subject","subject 17","tBodyAcc-std()-X",-0.613333940664837
+"226","subject","subject 18","tBodyAcc-std()-X",-0.696321636813187
+"227","subject","subject 19","tBodyAcc-std()-X",-0.575501688658333
+"228","subject","subject 2","tBodyAcc-std()-X",-0.605742611231788
+"229","subject","subject 20","tBodyAcc-std()-X",-0.604022687422599
+"230","subject","subject 21","tBodyAcc-std()-X",-0.67246703304902
+"231","subject","subject 22","tBodyAcc-std()-X",-0.545614322704534
+"232","subject","subject 23","tBodyAcc-std()-X",-0.621959508573656
+"233","subject","subject 24","tBodyAcc-std()-X",-0.67755785406178
+"234","subject","subject 25","tBodyAcc-std()-X",-0.717813491818627
+"235","subject","subject 26","tBodyAcc-std()-X",-0.623366137841837
+"236","subject","subject 27","tBodyAcc-std()-X",-0.663228167053191
+"237","subject","subject 28","tBodyAcc-std()-X",-0.64988181421466
+"238","subject","subject 29","tBodyAcc-std()-X",-0.579646641002907
+"239","subject","subject 3","tBodyAcc-std()-X",-0.623373342853801
+"240","subject","subject 30","tBodyAcc-std()-X",-0.616191911291667
+"241","subject","subject 4","tBodyAcc-std()-X",-0.603351443798742
+"242","subject","subject 5","tBodyAcc-std()-X",-0.506063735760265
+"243","subject","subject 6","tBodyAcc-std()-X",-0.503160795916667
+"244","subject","subject 7","tBodyAcc-std()-X",-0.572504019379221
+"245","subject","subject 8","tBodyAcc-std()-X",-0.586009088821986
+"246","subject","subject 9","tBodyAcc-std()-X",-0.548567488770833
+"247","subject",NA,"tBodyAcc-std()-X",-0.959138357741837
+"248","subject",NA,"tBodyAcc-std()-X",-0.982700954858757
+"249","subject",NA,"tBodyAcc-std()-X",-0.984011627434555
+"250","subject",NA,"tBodyAcc-std()-X",-0.314584389871729
+"251","subject",NA,"tBodyAcc-std()-X",0.101803625726058
+"252","subject",NA,"tBodyAcc-std()-X",-0.238842063992666
+"253","activity",NA,"tBodyAcc-std()-X",-0.547885746921555
+"254","activity",NA,"tBodyAcc-std()-X",-0.535282991993197
+"255","activity",NA,"tBodyAcc-std()-X",-0.586933614229747
+"256","activity",NA,"tBodyAcc-std()-X",-0.581516969935625
+"257","activity",NA,"tBodyAcc-std()-X",-0.624906791828834
+"258","activity",NA,"tBodyAcc-std()-X",-0.611990543725466
+"259","activity",NA,"tBodyAcc-std()-X",-0.555897911318902
+"260","activity",NA,"tBodyAcc-std()-X",-0.668819182286339
+"261","activity",NA,"tBodyAcc-std()-X",-0.613333940664837
+"262","activity",NA,"tBodyAcc-std()-X",-0.696321636813187
+"263","activity",NA,"tBodyAcc-std()-X",-0.575501688658333
+"264","activity",NA,"tBodyAcc-std()-X",-0.605742611231788
+"265","activity",NA,"tBodyAcc-std()-X",-0.604022687422599
+"266","activity",NA,"tBodyAcc-std()-X",-0.67246703304902
+"267","activity",NA,"tBodyAcc-std()-X",-0.545614322704534
+"268","activity",NA,"tBodyAcc-std()-X",-0.621959508573656
+"269","activity",NA,"tBodyAcc-std()-X",-0.67755785406178
+"270","activity",NA,"tBodyAcc-std()-X",-0.717813491818627
+"271","activity",NA,"tBodyAcc-std()-X",-0.623366137841837
+"272","activity",NA,"tBodyAcc-std()-X",-0.663228167053191
+"273","activity",NA,"tBodyAcc-std()-X",-0.64988181421466
+"274","activity",NA,"tBodyAcc-std()-X",-0.579646641002907
+"275","activity",NA,"tBodyAcc-std()-X",-0.623373342853801
+"276","activity",NA,"tBodyAcc-std()-X",-0.616191911291667
+"277","activity",NA,"tBodyAcc-std()-X",-0.603351443798742
+"278","activity",NA,"tBodyAcc-std()-X",-0.506063735760265
+"279","activity",NA,"tBodyAcc-std()-X",-0.503160795916667
+"280","activity",NA,"tBodyAcc-std()-X",-0.572504019379221
+"281","activity",NA,"tBodyAcc-std()-X",-0.586009088821986
+"282","activity",NA,"tBodyAcc-std()-X",-0.548567488770833
+"283","activity","LAYING","tBodyAcc-std()-X",-0.959138357741837
+"284","activity","SITTING","tBodyAcc-std()-X",-0.982700954858757
+"285","activity","STANDING","tBodyAcc-std()-X",-0.984011627434555
+"286","activity","WALKING","tBodyAcc-std()-X",-0.314584389871729
+"287","activity","WALKING_DOWNSTAIRS","tBodyAcc-std()-X",0.101803625726058
+"288","activity","WALKING_UPSTAIRS","tBodyAcc-std()-X",-0.238842063992666
+"289","subject","subject 1","tBodyAcc-std()-Y",-0.365274282317241
+"290","subject","subject 10","tBodyAcc-std()-Y",-0.495168529002721
+"291","subject","subject 11","tBodyAcc-std()-Y",-0.496130679361392
+"292","subject","subject 12","tBodyAcc-std()-Y",-0.52489291238
+"293","subject","subject 13","tBodyAcc-std()-Y",-0.449589903594512
+"294","subject","subject 14","tBodyAcc-std()-Y",-0.374388302021852
+"295","subject","subject 15","tBodyAcc-std()-Y",-0.477039910665061
+"296","subject","subject 16","tBodyAcc-std()-Y",-0.654294556802732
+"297","subject","subject 17","tBodyAcc-std()-Y",-0.564955855016196
+"298","subject","subject 18","tBodyAcc-std()-Y",-0.627617604258242
+"299","subject","subject 19","tBodyAcc-std()-Y",-0.5005880932075
+"300","subject","subject 2","tBodyAcc-std()-Y",-0.426730906988742
+"301","subject","subject 20","tBodyAcc-std()-Y",-0.368085063570621
+"302","subject","subject 21","tBodyAcc-std()-Y",-0.56617061937701
+"303","subject","subject 22","tBodyAcc-std()-Y",-0.49574288796875
+"304","subject","subject 23","tBodyAcc-std()-Y",-0.533781380229409
+"305","subject","subject 24","tBodyAcc-std()-Y",-0.581945111106316
+"306","subject","subject 25","tBodyAcc-std()-Y",-0.537109483781463
+"307","subject","subject 26","tBodyAcc-std()-Y",-0.580564027484184
+"308","subject","subject 27","tBodyAcc-std()-Y",-0.627702694728192
+"309","subject","subject 28","tBodyAcc-std()-Y",-0.573300826156021
+"310","subject","subject 29","tBodyAcc-std()-Y",-0.593210615099419
+"311","subject","subject 3","tBodyAcc-std()-Y",-0.470623137318824
+"312","subject","subject 30","tBodyAcc-std()-Y",-0.520633961557068
+"313","subject","subject 4","tBodyAcc-std()-Y",-0.523030092734494
+"314","subject","subject 5","tBodyAcc-std()-Y",-0.401770871980795
+"315","subject","subject 6","tBodyAcc-std()-Y",-0.372243719584724
+"316","subject","subject 7","tBodyAcc-std()-Y",-0.552793139641558
+"317","subject","subject 8","tBodyAcc-std()-Y",-0.349744380985714
+"318","subject","subject 9","tBodyAcc-std()-Y",-0.575565722916667
+"319","subject",NA,"tBodyAcc-std()-Y",-0.946715144594398
+"320","subject",NA,"tBodyAcc-std()-Y",-0.935974932797085
+"321","subject",NA,"tBodyAcc-std()-Y",-0.934256956004206
+"322","subject",NA,"tBodyAcc-std()-Y",-0.0242596685291109
+"323","subject",NA,"tBodyAcc-std()-Y",0.0595968916464051
+"324","subject",NA,"tBodyAcc-std()-Y",-0.0157753534536774
+"325","activity",NA,"tBodyAcc-std()-Y",-0.365274282317241
+"326","activity",NA,"tBodyAcc-std()-Y",-0.495168529002721
+"327","activity",NA,"tBodyAcc-std()-Y",-0.496130679361392
+"328","activity",NA,"tBodyAcc-std()-Y",-0.52489291238
+"329","activity",NA,"tBodyAcc-std()-Y",-0.449589903594512
+"330","activity",NA,"tBodyAcc-std()-Y",-0.374388302021852
+"331","activity",NA,"tBodyAcc-std()-Y",-0.477039910665061
+"332","activity",NA,"tBodyAcc-std()-Y",-0.654294556802732
+"333","activity",NA,"tBodyAcc-std()-Y",-0.564955855016196
+"334","activity",NA,"tBodyAcc-std()-Y",-0.627617604258242
+"335","activity",NA,"tBodyAcc-std()-Y",-0.5005880932075
+"336","activity",NA,"tBodyAcc-std()-Y",-0.426730906988742
+"337","activity",NA,"tBodyAcc-std()-Y",-0.368085063570621
+"338","activity",NA,"tBodyAcc-std()-Y",-0.56617061937701
+"339","activity",NA,"tBodyAcc-std()-Y",-0.49574288796875
+"340","activity",NA,"tBodyAcc-std()-Y",-0.533781380229409
+"341","activity",NA,"tBodyAcc-std()-Y",-0.581945111106316
+"342","activity",NA,"tBodyAcc-std()-Y",-0.537109483781463
+"343","activity",NA,"tBodyAcc-std()-Y",-0.580564027484184
+"344","activity",NA,"tBodyAcc-std()-Y",-0.627702694728192
+"345","activity",NA,"tBodyAcc-std()-Y",-0.573300826156021
+"346","activity",NA,"tBodyAcc-std()-Y",-0.593210615099419
+"347","activity",NA,"tBodyAcc-std()-Y",-0.470623137318824
+"348","activity",NA,"tBodyAcc-std()-Y",-0.520633961557068
+"349","activity",NA,"tBodyAcc-std()-Y",-0.523030092734494
+"350","activity",NA,"tBodyAcc-std()-Y",-0.401770871980795
+"351","activity",NA,"tBodyAcc-std()-Y",-0.372243719584724
+"352","activity",NA,"tBodyAcc-std()-Y",-0.552793139641558
+"353","activity",NA,"tBodyAcc-std()-Y",-0.349744380985714
+"354","activity",NA,"tBodyAcc-std()-Y",-0.575565722916667
+"355","activity","LAYING","tBodyAcc-std()-Y",-0.946715144594398
+"356","activity","SITTING","tBodyAcc-std()-Y",-0.935974932797085
+"357","activity","STANDING","tBodyAcc-std()-Y",-0.934256956004206
+"358","activity","WALKING","tBodyAcc-std()-Y",-0.0242596685291109
+"359","activity","WALKING_DOWNSTAIRS","tBodyAcc-std()-Y",0.0595968916464051
+"360","activity","WALKING_UPSTAIRS","tBodyAcc-std()-Y",-0.0157753534536774
+"361","subject","subject 1","tBodyAcc-std()-Z",-0.504033213201156
+"362","subject","subject 10","tBodyAcc-std()-Z",-0.616818148387755
+"363","subject","subject 11","tBodyAcc-std()-Z",-0.662457425253165
+"364","subject","subject 12","tBodyAcc-std()-Z",-0.69479276385625
+"365","subject","subject 13","tBodyAcc-std()-Z",-0.583625738151534
+"366","subject","subject 14","tBodyAcc-std()-Z",-0.296356818345155
+"367","subject","subject 15","tBodyAcc-std()-Z",-0.705367206396341
+"368","subject","subject 16","tBodyAcc-std()-Z",-0.598061930838798
+"369","subject","subject 17","tBodyAcc-std()-Z",-0.664535501342935
+"370","subject","subject 18","tBodyAcc-std()-Z",-0.700697889450549
+"371","subject","subject 19","tBodyAcc-std()-Z",-0.651637465259444
+"372","subject","subject 2","tBodyAcc-std()-Z",-0.59102164595894
+"373","subject","subject 20","tBodyAcc-std()-Z",-0.633644359706215
+"374","subject","subject 21","tBodyAcc-std()-Z",-0.672209445259804
+"375","subject","subject 22","tBodyAcc-std()-Z",-0.652225321847826
+"376","subject","subject 23","tBodyAcc-std()-Z",-0.44819498528871
+"377","subject","subject 24","tBodyAcc-std()-Z",-0.638204198586387
+"378","subject","subject 25","tBodyAcc-std()-Z",-0.649759381421569
+"379","subject","subject 26","tBodyAcc-std()-Z",-0.707849796494898
+"380","subject","subject 27","tBodyAcc-std()-Z",-0.684377303079787
+"381","subject","subject 28","tBodyAcc-std()-Z",-0.685661982722513
+"382","subject","subject 29","tBodyAcc-std()-Z",-0.608356983556977
+"383","subject","subject 3","tBodyAcc-std()-Z",-0.660477613935673
+"384","subject","subject 30","tBodyAcc-std()-Z",-0.522784316991771
+"385","subject","subject 4","tBodyAcc-std()-Z",-0.705030478805031
+"386","subject","subject 5","tBodyAcc-std()-Z",-0.645333374523179
+"387","subject","subject 6","tBodyAcc-std()-Z",-0.669819086160988
+"388","subject","subject 7","tBodyAcc-std()-Z",-0.449090232221753
+"389","subject","subject 8","tBodyAcc-std()-Z",-0.494124231021277
+"390","subject","subject 9","tBodyAcc-std()-Z",-0.501342130179861
+"391","subject",NA,"tBodyAcc-std()-Z",-0.948038745185714
+"392","subject",NA,"tBodyAcc-std()-Z",-0.935722345350283
+"393","subject",NA,"tBodyAcc-std()-Z",-0.938520761337173
+"394","subject",NA,"tBodyAcc-std()-Z",-0.274944212689568
+"395","subject",NA,"tBodyAcc-std()-Z",-0.18795329211522
+"396","subject",NA,"tBodyAcc-std()-Z",-0.174486588607568
+"397","activity",NA,"tBodyAcc-std()-Z",-0.504033213201156
+"398","activity",NA,"tBodyAcc-std()-Z",-0.616818148387755
+"399","activity",NA,"tBodyAcc-std()-Z",-0.662457425253165
+"400","activity",NA,"tBodyAcc-std()-Z",-0.69479276385625
+"401","activity",NA,"tBodyAcc-std()-Z",-0.583625738151534
+"402","activity",NA,"tBodyAcc-std()-Z",-0.296356818345155
+"403","activity",NA,"tBodyAcc-std()-Z",-0.705367206396341
+"404","activity",NA,"tBodyAcc-std()-Z",-0.598061930838798
+"405","activity",NA,"tBodyAcc-std()-Z",-0.664535501342935
+"406","activity",NA,"tBodyAcc-std()-Z",-0.700697889450549
+"407","activity",NA,"tBodyAcc-std()-Z",-0.651637465259444
+"408","activity",NA,"tBodyAcc-std()-Z",-0.59102164595894
+"409","activity",NA,"tBodyAcc-std()-Z",-0.633644359706215
+"410","activity",NA,"tBodyAcc-std()-Z",-0.672209445259804
+"411","activity",NA,"tBodyAcc-std()-Z",-0.652225321847826
+"412","activity",NA,"tBodyAcc-std()-Z",-0.44819498528871
+"413","activity",NA,"tBodyAcc-std()-Z",-0.638204198586387
+"414","activity",NA,"tBodyAcc-std()-Z",-0.649759381421569
+"415","activity",NA,"tBodyAcc-std()-Z",-0.707849796494898
+"416","activity",NA,"tBodyAcc-std()-Z",-0.684377303079787
+"417","activity",NA,"tBodyAcc-std()-Z",-0.685661982722513
+"418","activity",NA,"tBodyAcc-std()-Z",-0.608356983556977
+"419","activity",NA,"tBodyAcc-std()-Z",-0.660477613935673
+"420","activity",NA,"tBodyAcc-std()-Z",-0.522784316991771
+"421","activity",NA,"tBodyAcc-std()-Z",-0.705030478805031
+"422","activity",NA,"tBodyAcc-std()-Z",-0.645333374523179
+"423","activity",NA,"tBodyAcc-std()-Z",-0.669819086160988
+"424","activity",NA,"tBodyAcc-std()-Z",-0.449090232221753
+"425","activity",NA,"tBodyAcc-std()-Z",-0.494124231021277
+"426","activity",NA,"tBodyAcc-std()-Z",-0.501342130179861
+"427","activity","LAYING","tBodyAcc-std()-Z",-0.948038745185714
+"428","activity","SITTING","tBodyAcc-std()-Z",-0.935722345350283
+"429","activity","STANDING","tBodyAcc-std()-Z",-0.938520761337173
+"430","activity","WALKING","tBodyAcc-std()-Z",-0.274944212689568
+"431","activity","WALKING_DOWNSTAIRS","tBodyAcc-std()-Z",-0.18795329211522
+"432","activity","WALKING_UPSTAIRS","tBodyAcc-std()-Z",-0.174486588607568
