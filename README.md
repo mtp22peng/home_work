@@ -44,14 +44,18 @@
 <br>
 
 # section 6
-## filter data for only one variable to calculate its average for each subject, and write data to a file
-## repeat the above step for each variable
+## filter data for each variable to calculate its average for each subject, and join data into one table 
+
 <br>
 
 # section 7
 
-## filter data for only one variable to calculate its average for each activity, and write data to a file
-## repeat the above step for each variable
+## filter data for each variable to calculate its average for each activity, and join data into one table
 <br>
 
+# section 8
+## join two tables from section 6 and 7
+## create tidy data by putting subjects and activities into one column
+## create tidy data by putting all variables into one column
+## write output table to file
 
