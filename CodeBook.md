@@ -1,4 +1,4 @@
-#  subject
+#  activity
 
 ##1 WALKING
 ##2 WALKING_UPSTAIRS
@@ -9,7 +9,7 @@
 
 <br><br>
 
-#  activity
+#  subject
 ## 1 to 30
 <br><br>
 
