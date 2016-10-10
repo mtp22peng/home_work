@@ -5,10 +5,11 @@
 ## first 2 columns contain "study" and "id". "study" shows whether the study is a subject or an activity, and "id" shows the subject number or activity label.
 ## last 2 columns contain "variable" and "value". "variable" shows its name, and "value" shows the average calculated. 
 
+<br><br>
 # study
 ## subject
 ## activity
-
+<br><br>
 # id
 ##  activity id:
 
