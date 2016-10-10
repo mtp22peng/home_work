@@ -13,9 +13,7 @@ d22 <- read.table("./UCI HAR Dataset/train/subject_train.txt")
 d22 <- mutate(d22, subject2 = paste("subject", d22[,1]))
 names(d22)[1]<-"subject1"
 names(d22)[2]<-"subject"
-
 d2 <- select(d22, subject)
-
 d3 <- read.table("./UCI HAR Dataset/train/Y_train.txt")
 names(d3)[1]<-"activity"
 d4 <- c0[d3[,1],2]
@@ -24,22 +22,21 @@ d4 <- c0[d3[,1],2]
 # section 2
 c2 <- select(d1,   V1: V6)
 names(c2)[1:6]<-c1[1:6,2]
-
 fin1 <- cbind(d2,d4,c2)
 names(fin1)[2] <- "activity"
-
 rm("d1")
 rm("d2")
 rm("d22")
 rm("d3")
 rm("d4")
+
+
 # section 3
 e1 <- read.table("./UCI HAR Dataset/test/X_test.txt")
 e22 <- read.table("./UCI HAR Dataset/test/subject_test.txt")
 e22 <- mutate(e22, subject2 = paste("subject", e22[,1]))
 names(e22)[1]<-"subject1"
 names(e22)[2]<-"subject"
-
 e2 <- select(e22, subject)
 e3 <- read.table("./UCI HAR Dataset/test/Y_test.txt")
 names(e3)[1]<-"activity"
@@ -49,16 +46,15 @@ e4 <- c0[e3[,1],2]
 # section 4
 f2 <- select(e1,   V1: V6)
 names(f2)[1:6]<-c1[1:6,2]
-
 fin2 <- cbind(e2,e4,f2)
 names(fin2)[2] <- "activity"
-
-
 rm("e1")
 rm("e2")
 rm("e22")
 rm("e3")
 rm("e4")
+
+
 # section 5
 final <- full_join(fin1, fin2, by =  
                            c("subject" , "activity" )  )
@@ -99,6 +95,8 @@ out8 <- full_join(out2, out3, by = "subject") %>%
         full_join(out6, by = "subject") %>% 
         full_join(out7, by = "subject") 
 out9 <- gather(out8, key = "variable" , value = "value", -c(1))
+
+
 # section 7
 # activity
 final22 <- filter(final1, variable == c("tBodyAcc-mean()-X.x" , 
