@@ -35,7 +35,7 @@
 
 # section 5
 ## join two tables from section 2 and 4 by "subject" and "activity" ids
-## create tidy data set by putting all measured variable value in one column
+## create tidy data set by putting all measured variable values in one column
 
 
 <br>
