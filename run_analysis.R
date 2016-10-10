@@ -95,7 +95,7 @@ out8 <- full_join(out2, out3, by = "subject") %>%
         full_join(out6, by = "subject") %>% 
         full_join(out7, by = "subject") 
 out9 <- gather(out8, key = "variable" , value = "value", -c(1))
-
+names(out9)[1] <- "study"
 
 # section 7
 # activity
@@ -128,11 +128,11 @@ out88 <- full_join(out22, out33, by = "activity") %>%
         full_join(out55, by = "activity") %>% 
         full_join(out66, by = "activity") %>% 
         full_join(out77, by = "activity") 
-
+out99 <- gather(out88, key = "variable" , value = "value", -c(1))
+names(out99)[1] <- "study"
 
 # section 8
-out <- full_join(out8, out88)
-out10 <-  gather(out, key = "study" , value = "id", -c(2:7))
-out11 <- gather(out10, key = "variable" , value = "value", -c(7, 8))
-write.table(out11, file = "out.txt", sep = ",", 
+out <- full_join(out9, out99, , rm.na = TRUE)
+
+write.table(out, file = "out.txt", sep = ",", 
             col.names = NA, qmethod = "double")
