@@ -1,4 +1,16 @@
-#  activity
+
+#data files" out.txt
+
+## the table has 4 columns
+## first 2 columns contain "study" and "id". "study" shows whether the study is a subject or an activity, and "id" shows the subject number or activity label.
+## last 2 columns contain "variable" and "value". "variable" shows its name, and "value" shows the average calculated. 
+
+# study
+## subject
+## activity
+
+# id
+##  activity id:
 
 ##1 WALKING
 ##2 WALKING_UPSTAIRS
@@ -7,9 +19,9 @@
 ##5 STANDING
 ##6 LAYING
 
-<br><br>
+<br>
 
-#  subject
+##  subject id:
 ##1 subject 1
 ##2 subject 2
 ##3 subject 3
@@ -53,12 +65,6 @@
 ##6 tBodyAcc-std()-Z
 
 <br><br>
-#data files" out.txt
-
-## the table has 4 columns
-## first 2 columns contain "study" and "id". "study" shows whether the study is a subject or an activity, and "id" shows the subject number or activity label.
-## last 2 columns contain "variable" and "value". "variable" shows its name, and "value" shows the average calculated. 
-
 
 
 
