@@ -45,17 +45,16 @@
 
 # section 6
 ## filter data for each variable to calculate its average for each subject, and join data into one table 
-
+## rename a column with "Study" to contain subject id
 <br>
 
 # section 7
 
 ## filter data for each variable to calculate its average for each activity, and join data into one table
+## rename a column with "Study" to contain activity id
 <br>
 
 # section 8
 ## join two tables from section 6 and 7
-## create tidy data by putting subjects and activities into one column
-## create tidy data by putting all variables into one column
 ## write output table to file
 
