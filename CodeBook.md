@@ -1,61 +1,96 @@
 
-#data files" out.txt
+# output table data to a file:  out.txt
 
-## the table has 3 columns
-## first column contain "study id", which is a subject number or an activity label.
-## last 2 columns contain "variable" and "value". "variable" shows its name, and "value" shows the average calculated. 
+## table structure
 
-<br><br>
-# study id
-##1 subject 1
-##2 subject 2
-##3 subject 3
-##4 subject 4
-##5 subject 5
-##6 subject 6
-##7 subject 7
-##8 subject 8
-##9 subject 9
-##10 subject 10
-##11 subject 11
-##12 subject 12
-##13 subject 13
-##14 subject 14
-##15 subject 15
-##16 subject 16
-##17 subject 17
-##18 subject 18
-##19 subject 19
-##20 subject 20
-##21 subject 21
-##22 subject 22
-##23 subject 23
-##24 subject 24
-##25 subject 25
-##26 subject 26
-##27 subject 27
-##28 subject 28
-##29 subject 29
-##30 subject 30
-##31 WALKING
-##32 WALKING_UPSTAIRS
-##33 WALKING_DOWNSTAIRS
-##34 SITTING
-##35 STANDING
-##36 LAYING
+* the table contain average value of each variable for each pair of subject id and activity id
 
-<br><br>
+* first column contains "subject id" 
+
+
+* second column contains "activity id" : 
+
+
+## subject id and activity id
+
+* subject id : integers from 1 to 30
+
+* activity id: WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING
+
+
 
 # variable
- 
-##1 tBodyAcc-mean()-X
-##2 tBodyAcc-mean()-Y
-##3 tBodyAcc-mean()-Z
-##4 tBodyAcc-std()-X
-##5 tBodyAcc-std()-Y
-##6 tBodyAcc-std()-Z
 
-<br><br>
+in the name of variables, the prefix "Time" means in time domain, and the prefix "Frequency" means in frequency domain.
+
+
+* Time_BodyAccelerometer_MeanX	
+* Time_BodyAccelerometer_MeanY	
+* Time_BodyAccelerometer_MeanZ
+* Time_GravityAccelerometer_MeanX
+* Time_GravityAccelerometer_MeanY
+* Time_GravityAccelerometer_MeanZ
+* Time_BodyAccelerometer_JerkMeanX
+* Time_BodyAccelerometer_JerkMeanY
+* Time_BodyAccelerometer_JerkMeanZ	
+* Time_BodyGyroscope_MeanX	
+* Time_BodyGyroscope_MeanY
+* Time_BodyGyroscope_MeanZ
+* Time_BodyGyroscope_JerkMeanX
+* Time_BodyGyroscope_JerkMeanY
+* Time_BodyGyroscope_JerkMeanZ
+* Time_BodyAccelerometer_Magnitude_Mean	
+* Time_GravityAccelerometer_Magnitude_Mean
+* Time_BodyAccelerometer_JerkMagnitude_Mean
+* Time_BodyGyroscope_Magnitude_Mean
+* Time_BodyGyroscope_JerkMagnitude_Mean
+* Frequency_BodyAccelerometer_MeanX	
+* Frequency_BodyAccelerometer_MeanY	
+* Frequency_BodyAccelerometer_MeanZ	
+* Frequency_BodyAccelerometer_JerkMeanX
+* Frequency_BodyAccelerometer_JerkMeanY	
+* Frequency_BodyAccelerometer_JerkMeanZ	
+* Frequency_BodyGyroscope_MeanX
+* Frequency_BodyGyroscope_MeanY
+* Frequency_BodyGyroscope_MeanZ
+* Frequency_BodyAccelerometer_Magnitude_Mean
+* Frequency_BodyBodyAccelerometer_JerkMagnitude_Mean	
+* Frequency_BodyBodyGyroscope_Magnitude_Mean
+* Frequency_BodyBodyGyroscope_JerkMagnitude_Mean	
+* angletBodyAccelerometer_JerkMeangravityMean	
+* Time_BodyAccelerometer_StdX	
+* Time_BodyAccelerometer_StdY	
+* Time_BodyAccelerometer_StdZ	
+* Time_GravityAccelerometer_StdX	
+* Time_GravityAccelerometer_StdY	
+* Time_GravityAccelerometer_StdZ
+* Time_BodyAccelerometer_JerkStdX	
+* Time_BodyAccelerometer_JerkStdY
+* Time_BodyAccelerometer_JerkStdZ
+* Time_BodyGyroscope_StdX	
+* Time_BodyGyroscope_StdY
+* Time_BodyGyroscope_StdZ
+* Time_BodyGyroscope_JerkStdX	
+* Time_BodyGyroscope_JerkStdY
+* Time_BodyGyroscope_JerkStdZ
+* Time_BodyAccelerometer_Magnitude_Std	
+* Time_GravityAccelerometer_Magnitude_Std	
+* Time_BodyAccelerometer_JerkMagnitude_Std
+* Time_BodyGyroscope_Magnitude_Std	
+* Time_BodyGyroscope_JerkMagnitude_Std	
+* Frequency_BodyAccelerometer_StdX	
+* Frequency_BodyAccelerometer_StdY	
+* Frequency_BodyAccelerometer_StdZ	
+* Frequency_BodyAccelerometer_JerkStdX	
+* Frequency_BodyAccelerometer_JerkStdY
+* Frequency_BodyAccelerometer_JerkStdZ
+* Frequency_BodyGyroscope_StdX
+* Frequency_BodyGyroscope_StdY
+* Frequency_BodyGyroscope_StdZ
+* Frequency_BodyAccelerometer_Magnitude_Std	
+* Frequency_BodyBodyAccelerometer_JerkMagnitude_Std	
+* Frequency_BodyBodyGyroscope_Magnitude_Std	
+* Frequency_BodyBodyGyroscope_JerkMagnitude_Std
 
 
 
