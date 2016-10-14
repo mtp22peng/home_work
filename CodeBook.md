@@ -1,9 +1,9 @@
 
-# output table data to a file:  out.txt
+# Output table data to a file:  out.txt
 
 ## table structure
 
-* the table contain average value of each variable for each pair of subject id and activity id
+* the table contains the average value of each variable for each pair of subject id and activity id
 
 * first column contains "subject id" 
 
@@ -19,7 +19,7 @@
 
 
 
-# variable
+## variable
 
 in the name of variables, the prefix "Time" means in time domain, and the prefix "Frequency" means in frequency domain.
 
