@@ -16,15 +16,13 @@
 
 
 
-<br>
-
 ## section 2
  * select measured variables from Train data with only "mean" or "std" features
  
  * integrate training values with subject and activity lables into one table
 
 
-<br>
+
 
 ## section 3
 
@@ -33,7 +31,7 @@
  * assign proper column names
 
 
-<br>
+
 
 ## section 4
 *  select measured variables from Test data with only "mean" or "std" features
@@ -41,7 +39,7 @@
 *  integrate testing values with subject and activity lables into one table
 
 
-<br>
+
 
 ## section 5
 *  row-combine two tables from section 2 and 4
