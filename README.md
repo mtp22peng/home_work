@@ -1,5 +1,5 @@
 
-# explain sections in run_analysis.R file
+# Explain sections in run_analysis.R file
 
 ## section 0
 
@@ -10,49 +10,49 @@
 
 ## section 1
 
-read in data from Train directory
+* read in data from Train directory
 
-assign proper column names
+* assign proper column names
 
 
 
 <br>
 
 ## section 2
- select measured variables from Train data with only "mean" or "std" features
+ * select measured variables from Train data with only "mean" or "std" features
  
- integrate training values with subject and activity lables into one table
+ * integrate training values with subject and activity lables into one table
 
 
 <br>
 
 ## section 3
 
- read in data from Test directory
+ * read in data from Test directory
  
- assign proper column names
+ * assign proper column names
 
 
 <br>
 
 ## section 4
- select measured variables from Test data with only "mean" or "std" features
+*  select measured variables from Test data with only "mean" or "std" features
  
- integrate testing values with subject and activity lables into one table
+*  integrate testing values with subject and activity lables into one table
 
 
 <br>
 
 ## section 5
- row-combine two tables from section 2 and 4
+*  row-combine two tables from section 2 and 4
  
-rename column names with more readable texts
+* rename column names with more readable texts
 
 
-<br>
+
 
 ## section 6
- calculate averages for each variable
+ * calculate averages for each variable
 
-write output table to file
+* write output table to file
 
