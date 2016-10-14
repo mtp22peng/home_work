@@ -2,8 +2,8 @@
 # explain sections in run_analysis.R file
 
 # section 0
-##load libraries
-## read in data of features and activity lables
+load libraries
+ read in data of features and activity lables
 
 
 # section 1
