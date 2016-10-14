@@ -1,61 +1,58 @@
 
 # explain sections in run_analysis.R file
 
-# section 0
-load libraries
+## section 0
 
- read in data of features and activity lables
+* load libraries
 
-
-# section 1
-
-## read in data from Train directory
-## assign proper column names
+* read in data of features and activity lables
 
 
+## section 1
 
-<br>
+read in data from Train directory
 
-# section 2
-## select measured values of first 6 variables from Train data
-## integrate training values with subject and activity lables in one table
+assign proper column names
+
 
 
 <br>
 
-# section 3
-
-## read in data from Test directory
-## assign proper column names
-
-
-<br>
-
-# section 4
-## select measured values of first 6 variables from Test data
-## integrate testing values with subject and activity lables in one table
-
-<br>
-
-# section 5
-## join two tables from section 2 and 4 by "subject" and "activity" ids
-## create tidy data set by putting all measured variable values in one column
+## section 2
+ select measured variables from Train data with only "mean" or "std" features
+ 
+ integrate training values with subject and activity lables into one table
 
 
 <br>
 
-# section 6
-## filter data for each variable to calculate its average for each subject, and join data into one table 
-## rename a column with "Study" to contain subject id
+## section 3
+
+ read in data from Test directory
+ 
+ assign proper column names
+
+
 <br>
 
-# section 7
+## section 4
+ select measured variables from Test data with only "mean" or "std" features
+ 
+ integrate testing values with subject and activity lables into one table
 
-## filter data for each variable to calculate its average for each activity, and join data into one table
-## rename a column with "Study" to contain activity id
+
 <br>
 
-# section 8
-## join two tables from section 6 and 7
-## write output table to file
+## section 5
+ row-combine two tables from section 2 and 4
+ 
+rename column names with more readable texts
+
+
+<br>
+
+## section 6
+ calculate averages for each variable
+
+write output table to file
 
